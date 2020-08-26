@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ae4e6dc-2b9d-4c4a-847e-af79aae93da8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_28" />
+  <component name="ProjectId" id="1gbMj5zr5KvzqmJEbLt40MZZzCn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/OutPut" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SAJAWAL AHMAD\AndroidStudioProjects\flutter_login_register_ui\OutPut" />
+      <recent name="C:\Users\SAJAWAL AHMAD\AndroidStudioProjects\flutter_login_register_ui-master\assets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ae4e6dc-2b9d-4c4a-847e-af79aae93da8" name="Default Changelist" comment="" />
+      <created>1598378971014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598378971014</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1235" height="160" key="GridCell.Tab.0.bottom" timestamp="1598383240633">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1235" height="160" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598383240633" />
+    <state width="1235" height="160" key="GridCell.Tab.0.center" timestamp="1598383240632">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1235" height="160" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1598383240632" />
+    <state width="1235" height="160" key="GridCell.Tab.0.left" timestamp="1598383240632">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1235" height="160" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1598383240632" />
+    <state width="1235" height="160" key="GridCell.Tab.0.right" timestamp="1598383240633">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1235" height="160" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1598383240633" />
+    <state x="149" y="0" key="SettingsEditor" timestamp="1598381143237">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="149" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1598381143237" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1598424860115">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1598424860115" />
+  </component>
+</project>
